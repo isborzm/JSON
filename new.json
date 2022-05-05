@@ -1,6 +1,11 @@
 {
 
-	"first_line": "first_json"
+	"first_line": "first_json",
+	"firstName": "Yuriy",
+	"lastName": "Klyushkin",
+	"age": "36",
+	"homePets": "0",
+	"futureSalary": "2200_EUR"
 
 }
 
